@@ -27,8 +27,8 @@ This study assessed:
 
 ## 📊 Tools Used
 ### **Software**
-- **SPSS 25–29** — Primary statistical analysis
-- **Python 3.10+** — Visualization and analytical replication
+- **SPSS    26** — Primary statistical analysis
+- **Python 3.10** — Visualization and analytical replication
 
 ### **Python Libraries**
 - pandas  
@@ -40,36 +40,5 @@ This study assessed:
 
 ## 📁 Repository Structure
 
-vaginal-candidiasis-analysis/
-│
-├── README.md
-│
-├── data/
-│   ├── raw/
-│   │   └── dataset_description.txt   (no raw data for confidentiality)
-│   └── processed/
-│       └── cleaned_dataset.csv       
-│
-├── analysis/
-│   ├── SPSS/
-│   │   └── spss_output.spv           
-│   ├── Python/
-│   │   ├── chi_square_heatmap.ipynb
-│   │   ├── prevalence_piechart.ipynb
-│   │   ├── adjusted_or_heatmap.ipynb
-│   │   └── microbiology_bargraph.ipynb
-│
-├── scripts/
-│   ├── chi_square_heatmap.py
-│   ├── prevalence_piechart.py
-│   ├── adjusted_or_heatmap.py
-│   └── microbiology_bargraph.py
-│
-├── visuals/
-│   ├── chi_square_heatmap.png
-│   ├── prevalence_pie_chart.png
-│   ├── adjusted_or_heatmap.png
-│   └── microbiology_bargraph.png
-│
-└── docs/
-    └── detailed_report.pdf          
+
+         
